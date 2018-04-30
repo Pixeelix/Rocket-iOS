@@ -1,1 +1,1 @@
-# Rocket-iOS
+# Simple Rocket app using Swift 
